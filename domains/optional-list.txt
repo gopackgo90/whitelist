@@ -69,12 +69,6 @@ directvnow.com
 directvapplications.hb.omtrdc.net
 s.zkcdn.net
 
-# Jackbox.tv 
-
-www.google-analytics.com
-google-analytics.com
-ssl.google-analytics.com
-
 # Pluto.tv
 
 images.pluto.tv
