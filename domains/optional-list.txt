@@ -99,3 +99,6 @@ shareaholic.com
 # Lotus talk
 lotustalk.com
 www.lotustalk.com
+
+# Wisconsin Public Radio mailing list link
+r20.rs6.net
