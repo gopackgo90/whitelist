@@ -21,7 +21,7 @@ then
 fi
 
 
-sudo curl -sS https://raw.githubusercontent.com/gopackgo90/whitelist/master/domains/whitelist.txt >> /etc/pihole/whitelist.txt
+sudo cat ../domains/whitelist.txt >> /etc/pihole/whitelist.txt
 echo -e " ${TICK} \e[32m Adding to whitelist... \e[0m"
 sleep 0.5
 echo -e " ${TICK} \e[32m Removing duplicates... \e[0m"
