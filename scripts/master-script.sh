@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ..
-git pull
+git pull origin
 cd scripts
 ./whitelist.sh
 ./referral.sh
