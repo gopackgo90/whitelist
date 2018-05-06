@@ -1,7 +1,7 @@
 #!/bin/bash
-cd ..
+cd ~/whitelist
 git pull origin
 cd scripts
-./whitelist.sh
-./referral.sh
-./optional-list.sh
+sudo ./whitelist.sh
+sudo ./referral.sh
+sudo ./optional-list.sh
