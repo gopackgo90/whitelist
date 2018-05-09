@@ -96,3 +96,6 @@ www.lotustalk.com
 
 # Wisconsin Public Radio mailing list link
 r20.rs6.net
+
+# Links from DepositAccounts.com to banks
+www.qksrv.net
