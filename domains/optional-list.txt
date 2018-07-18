@@ -116,3 +116,6 @@ cj.dotomi.com
 www.emjcd.com
 click.linksynergy.com
 www.ojrq.net
+
+# For Overwatch PC
+d.xp1.ru4.com
