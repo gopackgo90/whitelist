@@ -27,10 +27,11 @@ sleep 0.5
 echo -e " ${TICK} \e[32m Removing duplicates... \e[0m"
 sudo gawk -i inplace '!a[$0]++' /etc/pihole/whitelist.txt
 wait
-echo -e " ${TICK} \e[32m Pi-hole gravity rebuilding lists...This may take a while \e[0m"
+echo -e " [...] \e[32m Pi-hole gravity rebuilding lists...This may take a while \e[0m"
 # Sticking with --skip-download --whitelist-only, diverging from upstream
 pihole -g --skip-download --whitelist-only > /dev/null
 wait
+echo -e " ${TICK} \e[32m Pi-hole's gravity updated \e[0m"
 echo -e " ${TICK} \e[32m Done! \e[0m"
 
 
