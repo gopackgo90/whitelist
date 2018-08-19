@@ -136,6 +136,11 @@ sysctl.org
 pgl.yoyo.org
 zeustracker.abuse.ch
 
+# UK University application website
+# https://github.com/anudeepND/whitelist/issues/30
+
+track.ucas.com
+
 # Wisconsin Public Radio mailing list link
 r20.rs6.net
 
