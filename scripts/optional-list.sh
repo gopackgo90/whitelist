@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script will download and add domains from the rep to whitelist.txt file.
+# This script will download and add domains from the rep to optional-list.txt file.
 # Project homepage: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
 # Created by Anudeep
