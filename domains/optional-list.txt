@@ -123,6 +123,19 @@ shareaholic.com
 lotustalk.com
 www.lotustalk.com
 
+# Host files
+
+hosts-file.net
+raw.githubusercontent.com
+v.firebog.net
+hostsfile.org
+someonewhocares.org
+hostsfile.mine.nu
+winhelp2002.mvps.org
+sysctl.org
+pgl.yoyo.org
+zeustracker.abuse.ch
+
 # Wisconsin Public Radio mailing list link
 r20.rs6.net
 
@@ -139,16 +152,5 @@ www.ojrq.net
 # For Overwatch PC
 d.xp1.ru4.com
 
-
-# Host files
-
-hosts-file.net
-raw.githubusercontent.com
-v.firebog.net
-hostsfile.org
-someonewhocares.org
-hostsfile.mine.nu
-winhelp2002.mvps.org
-sysctl.org
-pgl.yoyo.org
-zeustracker.abuse.ch
+# Target Barcode Image From Store Pickup Email
+cl.s7.exct.net
