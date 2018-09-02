@@ -63,6 +63,15 @@ facebook.com
 facebook.net
 fbcdn.net
 cdn.fbsbx.com
+edge-mqtt.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+edge-chat.facebook.com
 
 # GeForce Experience
 
@@ -140,6 +149,13 @@ zeustracker.abuse.ch
 # https://github.com/anudeepND/whitelist/issues/30
 
 track.ucas.com
+
+# Amazon AWS (???) - whitelist to make Kryptonite work
+sqs.us-east-1.amazonaws.com
+
+# National Express, UK (nationalexpress.com/en) - Unable to book journey
+
+cdns.gigya.com
 
 # Wisconsin Public Radio mailing list link
 r20.rs6.net
