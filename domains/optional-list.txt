@@ -177,5 +177,4 @@ d.xp1.ru4.com
 cl.s7.exct.net
 
 # FX Now
-dpm.demdex.net
 cdn-settings.segment.com
