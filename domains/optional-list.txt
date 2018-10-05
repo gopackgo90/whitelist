@@ -175,3 +175,6 @@ d.xp1.ru4.com
 
 # Target Barcode Image From Store Pickup Email
 cl.s7.exct.net
+
+# FX Now
+dpm.demdex.net
