@@ -178,3 +178,6 @@ cl.s7.exct.net
 
 # FX Now
 cdn-settings.segment.com
+
+# Some channels on Sling TV on Roku
+dpm.demdex.net
