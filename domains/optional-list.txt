@@ -181,3 +181,6 @@ cdn-settings.segment.com
 
 # Some channels on Sling TV on Roku
 dpm.demdex.net
+
+# PBS Video on Roku Crashes without this
+pubads.g.doubleclick.net
