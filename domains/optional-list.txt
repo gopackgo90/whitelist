@@ -184,3 +184,6 @@ dpm.demdex.net
 
 # PBS Video on Roku Crashes without this
 pubads.g.doubleclick.net
+
+# For some reason Dick's Sporting Goods is blocked
+dickssportinggoods.com
