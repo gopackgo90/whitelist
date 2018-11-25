@@ -187,3 +187,6 @@ pubads.g.doubleclick.net
 
 # For some reason Dick's Sporting Goods is blocked
 dickssportinggoods.com
+
+# Referral link going to True Value
+cj.mplxtms.com
