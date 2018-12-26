@@ -190,3 +190,6 @@ dickssportinggoods.com
 
 # Referral link going to True Value
 cj.mplxtms.com
+
+# Add domain so https://us.spindices.com/indexology/djia-and-sp-500/sizzlers-and-fizzlers works
+ws.sharethis.com
