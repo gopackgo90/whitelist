@@ -108,8 +108,6 @@ www.lotustalk.com
 
 # National Express, UK (nationalexpress.com/en) - Unable to book journey
 
-<<<<<<< HEAD
-=======
 cdns.gigya.com
 
 # Netflix - Domains needed for netlix to work correctly
@@ -123,7 +121,6 @@ secure.netflix.com
 
 ota-downloads.nvidia.com
 
->>>>>>> upstream/master
 # Pluto.tv
 
 images.pluto.tv
