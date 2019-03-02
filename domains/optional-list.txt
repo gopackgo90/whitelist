@@ -251,3 +251,6 @@ f1.media.brightcove.com
 fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
+
+# For requesting Experian credit report on AnnualCreditReport.com
+mpsnare.iesnare.com
