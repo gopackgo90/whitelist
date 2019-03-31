@@ -255,3 +255,6 @@ livepassdl.conviva.com
 
 # For requesting Experian credit report on AnnualCreditReport.com
 mpsnare.iesnare.com
+
+# For opening in Spotify
+app.adjust.com
