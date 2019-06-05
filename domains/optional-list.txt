@@ -258,3 +258,6 @@ mpsnare.iesnare.com
 
 # For opening in Spotify
 app.adjust.com
+
+# For following twitter links
+analytics.twitter.com
