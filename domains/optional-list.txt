@@ -264,3 +264,6 @@ analytics.twitter.com
 
 # Links from PC Part Picker
 www.shareasale.com
+
+# Links from NBA Store email
+cl.exct.net
