@@ -267,3 +267,6 @@ www.shareasale.com
 
 # Links from NBA Store email
 cl.exct.net
+
+# Seems to block US Cellular chat
+vmss.boldchat.com
