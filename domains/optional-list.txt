@@ -270,3 +270,6 @@ cl.exct.net
 
 # Seems to block US Cellular chat
 vmss.boldchat.com
+
+# Maybe mom's puzzle game
+rt.applovin.com
