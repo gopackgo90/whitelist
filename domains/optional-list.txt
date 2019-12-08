@@ -273,3 +273,6 @@ vmss.boldchat.com
 
 # Maybe mom's puzzle game
 ads.mopub.com
+
+# May be needed for Halo achievements
+vortex.data.microsoft.com
