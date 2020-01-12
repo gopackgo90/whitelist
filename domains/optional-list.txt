@@ -276,3 +276,6 @@ ads.mopub.com
 
 # May be needed for Halo achievements
 vortex.data.microsoft.com
+
+# For owner.ford.com
+ford.demdex.net
