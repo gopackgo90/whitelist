@@ -279,3 +279,6 @@ vortex.data.microsoft.com
 
 # For owner.ford.com
 ford.demdex.net
+
+# Bank of America 3% category choice
+tags.tiqcdn.com
