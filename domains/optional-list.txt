@@ -282,3 +282,6 @@ ford.demdex.net
 
 # Bank of America 3% category choice
 tags.tiqcdn.com
+
+# Pizza Hut emails
+appboy-images.com
