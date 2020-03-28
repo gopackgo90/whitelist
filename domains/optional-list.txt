@@ -285,3 +285,6 @@ tags.tiqcdn.com
 
 # Pizza Hut emails
 appboy-images.com
+
+# For viewing MLB Shop emails in browser
+view.exacttarget.com
