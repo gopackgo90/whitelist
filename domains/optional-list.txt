@@ -288,3 +288,7 @@ appboy-images.com
 
 # For viewing MLB Shop emails in browser
 view.exacttarget.com
+
+# For Isthmus Eye Care emails
+files.constantcontact.com
+imgssl.constantcontact.com
