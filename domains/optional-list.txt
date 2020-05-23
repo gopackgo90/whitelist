@@ -292,3 +292,6 @@ view.exacttarget.com
 # For Isthmus Eye Care emails
 files.constantcontact.com
 imgssl.constantcontact.com
+
+# Add for Weather Channel App Videos
+v.w-x.co
