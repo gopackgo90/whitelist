@@ -33,7 +33,7 @@ sudo gawk -i inplace '!a[$0]++' /etc/pihole/whitelist.txt
 wait
 echo -e " [...] \e[32m Pi-hole gravity rebuilding lists. This may take a while... \e[0m"
 # Sticking with --skip-download --whitelist-only, diverging from upstream
-pihole -g --skip-download --whitelist-only > /dev/null
+pihole -w -q $(cat /etc/pihole/whitelist.txt | xargs) > /dev/null
 wait
 echo -e " ${TICK} \e[32m Pi-hole's gravity updated \e[0m"
 echo -e " ${TICK} \e[32m Done! \e[0m"
