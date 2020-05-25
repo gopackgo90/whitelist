@@ -146,11 +146,11 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 redirector.googlevideo.com
 
-# Samsung TV's Amazon Prime Video app
+# Samsung TVs Amazon Prime Video app
 
 time.samsungcloudsolution.com
 
-# Samsung smart TV's network issue
+# Samsung smart TVs network issue
 
 cdn.samsungcloudsolution.com
 
@@ -177,7 +177,7 @@ shareaholic.com
 
 assets.adobedtm.com
 
-# Target's Weekly Ads
+# Targets Weekly Ads
 
 weeklyad.target.com
 m.weeklyad.target.com
@@ -229,7 +229,7 @@ dpm.demdex.net
 # PBS Video on Roku Crashes without this
 pubads.g.doubleclick.net
 
-# For some reason Dick's Sporting Goods is blocked
+# For some reason Dicks Sporting Goods is blocked
 dickssportinggoods.com
 
 # Referral link going to True Value
@@ -271,7 +271,7 @@ cl.exct.net
 # Seems to block US Cellular chat
 vmss.boldchat.com
 
-# Maybe mom's puzzle game
+# Maybe moms puzzle game
 ads.mopub.com
 
 # May be needed for Halo achievements
