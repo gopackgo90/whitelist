@@ -298,3 +298,6 @@ v.w-x.co
 
 # Mtn Dew locator
 cdn.destinilocators.com
+
+# From slickdeals
+go.skimresources.com
