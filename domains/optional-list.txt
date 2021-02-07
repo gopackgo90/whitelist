@@ -301,3 +301,6 @@ cdn.destinilocators.com
 
 # From slickdeals
 go.skimresources.com
+
+# For target.com
+goto.target.com
