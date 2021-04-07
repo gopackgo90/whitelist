@@ -307,3 +307,5 @@ goto.target.com
 
 # For mom's puzzle game
 cb.mopub.com
+
+# For JRVP live stream
