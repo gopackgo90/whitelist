@@ -309,3 +309,4 @@ goto.target.com
 cb.mopub.com
 
 # For JRVP live stream
+www2.onlocationexp.com
